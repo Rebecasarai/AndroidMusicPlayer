@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Sevilla/.android/build-cache/e7665cd9ec58eec3a7e8e5736a2bc7a86348c825/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/Sevilla/Desktop/rebeca.io/android-projects/MusicPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_40ba81ea9cf8df29845dd89396db74f004edcec6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sevilla/.android/build-cache/de34a4fb575c4e87bacf75d10126a25b1d2123fd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/Sevilla/Desktop/rebeca.io/android-projects/MusicPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_97d4af93b3b809cf3e3f8581aea57b6cc88892d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sevilla/Desktop/rebeca.io/android-projects/MusicPlayer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0d1934330ed2e30e01e5bba4b3caca68b3bb5d43">
+        <dex dex="/Users/Sevilla/Desktop/rebeca.io/android-projects/MusicPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_01a7eef433c239e5051bd14aa944a37f2a1f9b80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sevilla/.android/build-cache/635458a3fe13e4cbf7b72e92f6954a31fc0a2e32/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/Sevilla/Desktop/rebeca.io/android-projects/MusicPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f0d689859741fc9f1628f4de63985e651efef664/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sevilla/.android/build-cache/b7ec9ab49b3c70100849b2cc390fba4cbf9aaad3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Sevilla/Desktop/rebeca.io/android-projects/MusicPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f8704244a13f1fbe8a6c1ea6c888f0a5f0886c34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sevilla/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/Sevilla/Desktop/rebeca.io/android-projects/MusicPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_8ba0f31929b45777973572c6c036e3b464497bda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sevilla/.android/build-cache/43c8f575cde05382821a4264d8a764f2530c4035/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/Sevilla/Desktop/rebeca.io/android-projects/MusicPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_38e1532474e7516cc73bfb03ad92b17790ca3669/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sevilla/.android/build-cache/afa12a53b7d28a5dbadb5ad82a7de90e5a08084e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/Sevilla/Desktop/rebeca.io/android-projects/MusicPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ba852dfff3198f2eae66691c5dd541a38b8ed8d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sevilla/Desktop/rebeca.io/android-projects/MusicPlayer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Sevilla/Desktop/rebeca.io/android-projects/MusicPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dd9e4a9826bce0aa1cd87d987ed58f8e32ffc469/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sevilla/.android/build-cache/40dd95f4b365183282c2ed6472f98663a13d8529/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/Sevilla/Desktop/rebeca.io/android-projects/MusicPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_340e9c27d380962bd13f6b08fc80c766d212290e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sevilla/.android/build-cache/31415f33195c1bd231244eaad9712d213a993802/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/Sevilla/Desktop/rebeca.io/android-projects/MusicPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e22d8e67c4ac3b689e6d5811d9b91eeb8c7efa7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sevilla/.android/build-cache/6f42fefb2cc43cbb03879b9d54ccb0f1e2213c7f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/Sevilla/Desktop/rebeca.io/android-projects/MusicPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_da4b311a523169ed9ed16f44c349f3f34287369a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sevilla/.android/build-cache/6d8d69948f4e73d1f2d36bcc2333f035e929d6e7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/Sevilla/Desktop/rebeca.io/android-projects/MusicPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6e2a58c0431646200fd8ce2b60c880230af0c0ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sevilla/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/Sevilla/Desktop/rebeca.io/android-projects/MusicPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_8c726457d6cf53d5f8475270ad5847e6edbf6d1c/classes.dex" />
+    </item>
+
+</items>
